@@ -1,0 +1,12 @@
+J'ai retiré le système de register afin que seule la connexion soit possible et non l'inscription bien qu'en me relisant maintenant je ne sois pas certaine d'avoir compris la demande.
+
+Les deux C.R.U.D fonctionnent.
+
+La liste des animaux n'est pas accessible hors login malheureusement.
+
+Les utilisateurs possèdent des rôles différents mais cela n'est pas affiché.
+L'administrateur:admin@admin.fr , admin1234
+Le non-administrateur:notadmin@admin.fr , notadmin1234
+
+Bootstrap a été réutilisé pour le templating.
+
